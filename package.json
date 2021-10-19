@@ -1,0 +1,26 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "TDD and Pair Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest  --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buhobyte/tdd.git"
+  },
+  "author": "QA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buhobyte/tdd/issues"
+  },
+  "homepage": "https://github.com/Buhobyte/tdd#readme",
+  "keywords": [
+    "TDD",
+    "Training"
+  ],
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
