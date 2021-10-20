@@ -2,10 +2,10 @@
 TDD y Pair Programming
 
 
-![Gráfico TDD rojo verde refactoreo](/docs/tdd-red-green-refactor.png)
+![Gráfico TDD rojo verde refactoreo](/docs/tdd-red-green-refactor.jpg)
 
 ### Requerimientos Proyecto fizzbuzzy
-![Gráfico TDD rojo verde refactoreo](/docs/requirements-exercise.png)
+![Gráfico Requerimientos fizzbuzz](/docs/requirements-exercise.jpg)
 
 ## Inicialización y configuración:
 ### Instalar y configurar proyecto
